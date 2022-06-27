@@ -1,5 +1,4 @@
 const path = require("path");
-const yaml = require("js-yaml");
 const CopyWebpackPlugin = require("copy-webpack-plugin");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 
